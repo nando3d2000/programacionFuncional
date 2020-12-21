@@ -1,0 +1,5 @@
+com/nando/entidades/Persona.java
+ com.nando.entidades.Persona
+ com.nando.entidades.Persona$PersonaBuilder
+com/nando/funcional/Main.java
+ com.nando.funcional.Main
